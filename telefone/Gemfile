@@ -1,0 +1,9 @@
+source "http://rubygems.org"
+
+gem "rspec"
+
+gem "rspec-rails"
+
+gem "ZenTest"
+
+gem "test_notifier"

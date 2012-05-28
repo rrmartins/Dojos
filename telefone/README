@@ -1,0 +1,7 @@
+Para testar, execute:
+
+  bundle install
+
+E depois:
+
+  rspec spec
